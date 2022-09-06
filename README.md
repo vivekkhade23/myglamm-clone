@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
 </p>
 
-
+Deployed Link:-[https://myglamm-clone-two.vercel.app](https://myglamm-clone-two.vercel.app)
 
 # Getting Started with Create React App
 

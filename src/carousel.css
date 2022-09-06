@@ -1,0 +1,25 @@
+.carousel .slick-arrow.slick-prev,
+.carousel .slick-arrow.slick-next {
+  background: #fcfcfc;
+  width: 47px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+  box-shadow: 1px 2px 10px -1px rgb(0 0 0 / 30%);
+}
+
+.carousel .slick-prev {
+  left: 0;
+  border-radius: 50%;
+}
+.carousel .slick-next {
+  right: 0;
+  border-radius: 50%;
+  /* border-top-left-radius: 7px; */
+}
+.slick-prev::before,
+.slick-next::before {
+  display: none;
+}
